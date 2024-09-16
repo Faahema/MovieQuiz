@@ -1,0 +1,17 @@
+body {background-color:	#E6E6FA; max-width:500px; margin: auto;}
+
+h1 {font-family:Arial;
+font-size:58pt;
+color:#FF9AA2; center: ;}
+
+th {font-family:Helvetica;
+font-size:36pt;
+background-color: #d98695;
+color:white; margin:10px;}
+
+td {font-family:Helvetica;
+font-size:36pt;
+background-color:#ffffff;
+color:black; padding:10px;}
+
+table {background-color: #d98695;margin-left:45px;}
